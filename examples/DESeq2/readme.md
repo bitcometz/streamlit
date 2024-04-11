@@ -8,3 +8,6 @@
  * gene.csv, 基因表达矩阵
  * meta.csv, 样品分组信息
  * res.csv, 输出文件
+### 启动方式
+ 
+streamlit run --server.port 8501 DESeq2.py
